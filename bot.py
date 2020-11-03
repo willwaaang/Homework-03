@@ -230,33 +230,31 @@ while True:
         # HINT:
         # use the generate_comment() function to create the text,
         # and the .reply() function to post it to reddit
-
+            
+#Extra Credit Oppurtunities.
     # Upvote any comment mentioning your favorite candidate
-   # for comment in submission.comments.list():
-       # if 'biden' in comment.body.lower():
-           # comment.upvote()
-           # print('Comment Upvoted!')
+    for comment in submission.comments.list():
+        if 'biden' in comment.body.lower():
+            comment.upvote()
+            print('Comment Upvoted!')
 
     # Downvote any comment mentioning the opposition
-   # for comment in submission.comments.list():
-       # if 'trump' in comment.body.lower():
-          #  comment.downvote()
-          #  print('Comment Downvoted!')
+    for comment in submission.comments.list():
+        if 'trump' in comment.body.lower():
+            comment.downvote()
+            print('Comment Downvoted!')
 
-            
-    #Extra Credit oppurtunities
-
-    #for submission in reddit.subreddit('csci040temp'):
+    for submission in reddit.subreddit('csci040temp'):
 
         # Upvote any submission mentioning your favorite candidate
-       # if 'Biden' in submission.title.lower():
-          #  submission.upvote()
-          #  print('Submission Upvoted!')
+        if 'Biden' in submission.title.lower():
+            submission.upvote()
+            print('Submission Upvoted!')
 
         # Downvote any submission mentioning the opposition
-      #  if 'Trump' in submission.title.lower():
-          #  submission.downvote()
-          #  print('Submission Downvoted!')
+        if 'Trump' in submission.title.lower():
+            submission.downvote()
+            print('Submission Downvoted!')
 
     # FIXME (task 5): select a new submission for the next iteration;
     
