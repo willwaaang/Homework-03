@@ -14,7 +14,15 @@ Below is a screenshot of the thread.
 3. My bot replies with a comment stating that Biden is less sexy than trump.
 
 ## Bot Counter.py... output.
-     
+    len(comments)= 1000
+    len(top_level_comments)= 79
+    len(replies)= 921
+    len(valid_top_level_comments)= 79
+    len(not_self_replies)= 521
+    len(valid_replies)= 921
+    ========================================
+    valid_comments= 1000
+    ========================================
      
 ## What should my grade be?
 
