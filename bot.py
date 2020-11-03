@@ -160,9 +160,6 @@ while True:
     # your bot will behave differently depending on whether it's posted a comment or not
     has_not_commented = len(not_my_comments)
     
-        # post a top level comment
-        # print(generate_comment())
-        # submission.reply(generate_comment())
 
         # FIXME (task 2)
         # if you have not made any comment in the thread, then post a top level comment
@@ -208,7 +205,6 @@ while True:
         # and reply to that comment
         try:
             try:
-                # sorted_comments_without_replies = sorted(comments_without_replies key=comment.score) -- figure this part out
                 comment = reddit.comment(id=random.choice(comments_without_replies))
                 print('comment_id =', random.choice(comments_without_replies))
                 comment.reply(generate_comment())
