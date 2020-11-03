@@ -37,3 +37,22 @@ All Tasks Completed = (6*2) = 12 pts
 
 20/20 should be my minimum grade; including the 1 self-created extra creddit oppurtunitiy, my grade could be 21/20 (105%)
 
+* Did not Complete:
+
+Make your bot reply to highly upvoted comments before replying to lower upvoted comments. (HINT: sort the comments_without_replies list by the score of the comment using the key parameter to the sorted function; see the python docs for examples)
+
+Have your bot post new submissions to the /r/csci040 subreddit. These submissions should be from the top submissions of a political subreddit that supports your favorite presidential candidate (e.g. /r/politics or /r/conservative). Your bot must post at least 20 of these submissions to receive the extra credit.
+
+Create an army of at least 10 bots that all upvote posts according to the same criteria. This will let you manipulate which posts/comments are the most upvoted, and therefore the most read. If your bot army contains 30 bots you'll get an additional 2 points of extra credit.
+
+Use the textblob library to measure the sentiment of every comment/submission. If it mentions your favorite candidate with a positive sentiment, then upvote it; if it mentions your favorite candidate with a negative sentiment, then downvote it. Conversely, if it mentions a candidate you don't like with positive sentiment, then downvote it; if it mentions a candidate you don't like with negative sentiment, then upvote it. If you complete this extra credit, you also get both of the 1 point extra credits for upvoting.
+
+Have the responses of your bot somehow depend on what the comment you are replying to is saying. For example, if you are writing a bot that supports Trump, you might detect if the previous comment talks about Biden. If it does, you might reply Biden sucks, Trump is better. Alternatively, you might detect that the previous comment mentioned Trump with a negative sentiment and reply I disagree, Trump is actually really great. The amount of extra credit you get for this will vary depending on the creativity of your idea.
+
+Use the GPT-2 model to generate complex political messages. See these links for tutorials.
+
+https://www.reddit.com/r/talkwithgpt2bots/comments/gc26tf/make_your_own_gpt2_bot_tutorial_and_script/
+
+https://bonkerfield.org/2020/04/twenty-minute-gpt2-reply-bot/
+
+
