@@ -27,15 +27,18 @@ All Tasks Completed = (6*2) = 12 pts
 
 **Have your bot upvote any comment mentioning your favorite candidate.** *Completed +1*
 
+**Have your bot downvote any comment mentioning your favorite candidate.** *Completed +1*
+
 **Have your bot upvote any submission mentioning your favorite candidate.** *Completed +1*
+
+**Have your bot downvote any submission mentioning your favorite candidate.** *Completed +1*
 
 **If your bot writes more than 500 comments, you get this extra credit** *Completed +1*
 
 **If your bot writes more than 1000 comments, you get this extra credit** *Completed +1*
 
-**Extra Credit Maybe...? Bot wakes and up sleeps on a timer, rather than just endlessly spamming** *Completed +1*
 
-20/20 should be my minimum grade; including the 1 self-created extra creddit oppurtunitiy, my grade could be 21/20 (105%)
+22/20 should be my minimum grade (110%).
 
 * Did not Complete:
 
