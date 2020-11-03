@@ -35,3 +35,5 @@ All Tasks Completed = (6*2) = 12 pts
 
 **Extra Credit Maybe...? Bot wakes and up sleeps on a timer, rather than just endlessly spamming** *Completed +1*
 
+20/20 should be my minimum grade; including the 1 self-created extra creddit oppurtunitiy, my grade could be 21/20 (105%)
+
