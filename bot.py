@@ -219,17 +219,6 @@ while True:
             print('starting to sleep')
             time.sleep(60)
             print('done sleeping')
-
-        # print(generate_comment())
-        # print(type(comments_without_replies))
-
-        # use random.choice() with list 
-        # also use submission.reply(generate_comment())
-
-        #
-        # HINT:
-        # use the generate_comment() function to create the text,
-        # and the .reply() function to post it to reddit
             
 #Extra Credit Oppurtunities.
     # Upvote any comment mentioning your favorite candidate
