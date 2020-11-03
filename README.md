@@ -23,6 +23,7 @@ Below is a screenshot of the thread.
     ========================================
     valid_comments= 1000
     ========================================
+    NOTE: the number valid_comments is what will be used to determine your extra credit
      
 ## What should my grade be?
 
