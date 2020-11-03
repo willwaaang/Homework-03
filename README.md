@@ -4,6 +4,11 @@
 
 My bot is sarcastically supporting Donald Trump for president. It opposes Joe Biden for not being sexy and rich.
 
+Trump ...
+1. Has nice hair.
+2. Is rich.
+3. Is sexy.
+
 [Click here](https://www.reddit.com/r/csci040temp/comments/jj7fo1/hello_debate_test_hello/gab1lul?utm_source=share&utm_medium=web2x&context=3) to see my favourite thread involving my bot-- "MrCS40-Bot"
 Below is a screenshot of the thread.
 
